@@ -1,9 +1,9 @@
-# Hacker Rank Python3 Solutions
+# Hacker Rank Solutions
 
 
 ### Others
 
-¡­or create a new repository on the command line
+or create a new repository on the command line
 
 echo "# HackerRankSolution" >> README.md
 
@@ -17,7 +17,7 @@ git remote add HRS https://github.com/BruceChanJianLe/HackerRankSolution.git
 
 git push -u HRS master
 
-¡­or push an existing repository from the command line
+or push an existing repository from the command line
 
 git remote add HRS https://github.com/BruceChanJianLe/HackerRankSolution.git
 
